@@ -26,7 +26,7 @@ The dashboard is ideal for:
 
 🔗 View Dashboard (Read-Only Mode)
 
-> https://drive.google.com/file/d/1itq2vQTqyUnaIibVx2jVCJH8z5p1epNi/view?usp=sharing
+>https://app.powerbi.com/links/KhxcTXUWdn?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare
 
 🖼️ Dashboard Screenshots
  ⭐ **Main Dashboard**
