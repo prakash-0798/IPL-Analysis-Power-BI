@@ -24,10 +24,6 @@ The dashboard is ideal for:
 - Data science learners  
 - Recruiters reviewing BI/Data Analyst skills  
 
-🔗 View Dashboard (Read-Only Mode)
-
->https://app.powerbi.com/links/KhxcTXUWdn?ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&pbi_source=linkShare
-
 🖼️ Dashboard Screenshots
  ⭐ **Main Dashboard**
 ![Dashboard Image 1](https://raw.githubusercontent.com/prakash-0798/IPL-Analysis-Power-BI/main/IPL%20Analysis%202008-25(PowerBI)/IPL%20Analysis%20Image%201.png)
