@@ -66,7 +66,7 @@ This Power BI project delivers an interactive and visually rich **IPL analysis f
 - **Top Venues Bar Chart**  
   Sorted by match volume (e.g., Wankhede, Chinnaswamy, Eden Gardens).
 
-  **3️Extended Analysis Page**
+  **Extended Analysis Page**
 Deep-dive into batsmen, bowlers & venues.
 
   **Bowling Analysis**
@@ -126,8 +126,8 @@ Deep-dive into batsmen, bowlers & venues.
   - Dot Ball %  
   - Boundaries Count  
   - Venue KPIs  
-**Tech Stack Used**
 
+**Tech Stack Used**
 | Component | Technology |
 |----------|------------|
 | BI Tool | Power BI Desktop |
