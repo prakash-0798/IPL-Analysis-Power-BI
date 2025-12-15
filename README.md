@@ -9,36 +9,36 @@ This repository contains:
 - View-only link (PBIX not downloadable)
 The original PBIX file & dataset are **NOT uploaded** to protect the project assets.
 
-Project Overview
+**Project Overview**
 This Power BI project delivers an interactive and visually rich **IPL analysis from 2008 to 2025**, covering:
 
-✔ Team performance across seasons  
-✔ Batsman & bowler career analysis  
-✔ Venue trends & match distribution  
-✔ Season winners & finalists  
-✔ Deep KPI breakdown  
-✔ Maps, donut charts, tooltips & extended insights  
-The dashboard is ideal for:
+  Team performance across seasons  
+  Batsman & bowler career analysis  
+  Venue trends & match distribution  
+  Season winners & finalists  
+  Deep KPI breakdown  
+  Maps, donut charts, tooltips & extended insights  
+**The dashboard is ideal for:**
 - Cricket analysts  
 - BI professionals  
 - Data science learners  
 - Recruiters reviewing BI/Data Analyst skills  
 
-🖼️ Dashboard Screenshots
- ⭐ **Main Dashboard**
+**Dashboard Screenshots**
+  Main Dashboard
 ![Dashboard Image 1](https://raw.githubusercontent.com/prakash-0798/IPL-Analysis-Power-BI/main/IPL%20Analysis%202008-25(PowerBI)/IPL%20Analysis%20Image%201.png)
-⭐ **Extended Analysis**
+  Extended Analysis
 ![Dashboard Image 2](https://raw.githubusercontent.com/prakash-0798/IPL-Analysis-Power-BI/main/IPL%20Analysis%202008-25(PowerBI)/IPL%20Analysis%20Image%202.png)
 
- 🧩 Dashboard Pages & Features
- 1️⃣ Introduction Page
+   Dashboard Pages & Features
+  Introduction Page
   A visually rich cover page featuring:
 - Trophy background  
 - Team graphics  
 - IPL branding  
 - 2008–2025 scope highlight  
 
-2️⃣ Main Dashboard Page Contains:
+     Main Dashboard Page Contains:
 - **Season Winner & Runner-Up Cards**  
 - **Star Batsman & Bowler of the Season**  
 - **Global KPIs**:
@@ -66,41 +66,41 @@ The dashboard is ideal for:
 - **Top Venues Bar Chart**  
   Sorted by match volume (e.g., Wankhede, Chinnaswamy, Eden Gardens).
 
-### **3️⃣ Extended Analysis Page**
+  **3️Extended Analysis Page**
 Deep-dive into batsmen, bowlers & venues.
 
-🏏 **Bowling Analysis**
+  **Bowling Analysis**
 - Wickets  
 - Dot Deliveries  
 - Runs Conceded  
 - Wicket Type Donut Chart  
 - Bowler Type Split (Spin vs Pace)
 
-🏏 **Batting Analysis**
+  **Batting Analysis**
 - Total Runs  
 - Sixes  
 - Fours  
 - Career leaderboard (2008–2025)
 
-🏟️ **Venue Performance**
+  **Venue Performance**
 - Venue-wise runs distribution  
 - Venue-wise wickets  
 - High-scoring vs bowling-friendly stadiums  
 
-4️⃣ Tooltip Page**
+**Tooltip Page**
   Hover-cards showing:
 - Player mini-profile  
 - Venue insights  
 - Quick season stats  
 
-5️⃣ IPL’s BEST Page**
+ **IPL’s BEST Page**
   A combined leaderboard of:
 - Top batsmen of IPL (2008–2025)  
 - Top bowlers (wickets + dot ball %)  
 - Top venues  
 - Seasonal consistency charts  
 
-📊 Key Insights (Example Highlights)
+**Key Insights (Example Highlights)**
 
 - **Virat Kohli** remains highest run scorer (8600+ runs).  
 - **YS Chahal** leads the wicket chart with 229 wickets.  
@@ -109,15 +109,13 @@ Deep-dive into batsmen, bowlers & venues.
 - **RCB** finally lift the trophy (based on your dashboard).  
 - **Punjab Kings** emerge as serious contenders (runner-up).  
 
-*📦 Dataset Information
-
-Contains:
+**Dataset Information**
+  Contains:
 - Ball-by-ball IPL data  
 - Match metadata  
 - Player performance table  
 - Venue coordinates  
-
-  Data Engineering Steps**
+**Data Engineering Steps**
 - Cleaning & Null Handling  
 - Power Query Transformations  
 - Star Schema Modelling  
@@ -128,7 +126,7 @@ Contains:
   - Dot Ball %  
   - Boundaries Count  
   - Venue KPIs  
-🛠️ Tech Stack Used
+**Tech Stack Used**
 
 | Component | Technology |
 |----------|------------|
@@ -138,8 +136,8 @@ Contains:
 | Enhancements | Tooltips, Themes, Custom Images |
 
 **Divya Prakash**  
-📧: deepak.trivedi0798@gmail.com  
-📍 Mumbai, India 
+**deepak.trivedi0798@gmail.com** 
+**Mumbai, India** 
 
 
 
