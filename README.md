@@ -30,7 +30,7 @@ This Power BI project delivers an interactive and visually rich **IPL analysis f
   Extended Analysis
 ![Dashboard Image 2](https://raw.githubusercontent.com/prakash-0798/IPL-Analysis-Power-BI/main/IPL%20Analysis%202008-25(PowerBI)/IPL%20Analysis%20Image%202.png)
 
-   Dashboard Pages & Features
+**Dashboard Pages & Features**
   Introduction Page
   A visually rich cover page featuring:
 - Trophy background  
@@ -38,7 +38,7 @@ This Power BI project delivers an interactive and visually rich **IPL analysis f
 - IPL branding  
 - 2008–2025 scope highlight  
 
-     Main Dashboard Page Contains:
+  **Main Dashboard Page Contains:**
 - **Season Winner & Runner-Up Cards**  
 - **Star Batsman & Bowler of the Season**  
 - **Global KPIs**:
@@ -135,9 +135,9 @@ Deep-dive into batsmen, bowlers & venues.
 | Visualization | Cards, Matrix, Maps, Donut, Bar |
 | Enhancements | Tooltips, Themes, Custom Images |
 
-**Divya Prakash**  
-**deepak.trivedi0798@gmail.com** 
-**Mumbai, India** 
+ **Divya Prakash**  
+ **deepak.trivedi0798@gmail.com** 
+ **Mumbai, India** 
 
 
 
